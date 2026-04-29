@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhruvanshKumar
 - 👀 I’m interested in DSA, WebDev
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on WebDev
+- 💞️ I’m looking to collaborate on Software Dev
 - 📫 Reach me at dhruvansh1309@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No
