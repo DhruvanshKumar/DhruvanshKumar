@@ -1,4 +1,4 @@
-Hi Guys
+Hi
 I am a final year engineering student at NIT Jalandhar.
 I am currently exploring full stack development (I mostly hate frontend though and like backend development)
 I like to work with RESTful APIs.
